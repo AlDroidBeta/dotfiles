@@ -1,1 +1,1 @@
-# dotfiles
+# Arch Linux Configs (BSPWM)
